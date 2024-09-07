@@ -1,4 +1,4 @@
-# Sua Biblioteca Virtual
+# Sua Biblioteca Virtual Personalizada
 
 ## O que é essa aplicação?
 
@@ -16,8 +16,5 @@ Essa aplicação web simples, mas poderosa, é a sua biblioteca pessoal online! 
 * **CSS:** Responsável por deixar a aplicação com uma cara bonita e organizada, definindo as cores, fontes e layout.
 * **JavaScript:** A mágica por trás da aplicação! É o JavaScript que faz a pesquisa, filtra os resultados e atualiza a página dinamicamente.
 
-* ## Como usar este repositório:
 
-1. **Clone o repositório:** Use o comando `git clone https://github.com/seu-usuario/sua-aplicacao.git` para baixar o código para o seu computador.
-2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador para ver a aplicação funcionando.
-3. **Personalize:** Sinta-se à vontade para personalizar o CSS para deixar a aplicação com a sua cara. Você também pode adicionar mais livros ao arquivo `dados.js`.
+Projeto realizado durante Imersão Dev com Google Gemini
