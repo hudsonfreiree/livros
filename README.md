@@ -15,7 +15,7 @@ Essa aplicação web simples, mas poderosa, é a sua biblioteca pessoal online! 
 * **HTML:** A estrutura básica da página, onde tudo é organizado.
 * **CSS:** Responsável por deixar a aplicação com uma cara bonita e organizada, definindo as cores, fontes e layout.
 * **JavaScript:** A mágica por trás da aplicação! É o JavaScript que faz a pesquisa, filtra os resultados e atualiza a página dinamicamente.
-* 
+
 * ## Como usar este repositório:
 
 1. **Clone o repositório:** Use o comando `git clone https://github.com/seu-usuario/sua-aplicacao.git` para baixar o código para o seu computador.
